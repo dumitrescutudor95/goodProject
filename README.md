@@ -1,1 +1,1 @@
-# goodProject
+Head first design patterns book link  :  http://www.101books.ru/carte/descarca-eric-freeman-head-first-design-patterns-pdf
